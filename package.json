@@ -2,6 +2,7 @@
   "name": "parceljs-starter",
   "version": "1.0.0",
   "description": "",
+  "private": false,
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html"
